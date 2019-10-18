@@ -1,0 +1,90 @@
+2019/10/16-09:42 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Initializing Servlet 'dispatcherServlet'
+2019/10/16-09:42 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.DispatcherServlet- Detected StandardServletMultipartResolver
+2019/10/16-09:42 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.DispatcherServlet- enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2019/10/16-09:42 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Completed initialization in 29 ms
+2019/10/16-09:42 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.DispatcherServlet- GET "/ws", parameters={}
+2019/10/16-09:42 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019/10/16-09:42 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.resource.ResourceHttpRequestHandler- Resource not found
+2019/10/16-09:42 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.DispatcherServlet- Completed 404 NOT_FOUND
+2019/10/16-09:42 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.DispatcherServlet- "ERROR" dispatch for GET "/error", parameters={}
+2019/10/16-09:42 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping- Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019/10/16-09:42 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.view.ContentNegotiatingViewResolver- Selected 'text/html' given [text/html, text/html;q=0.8]
+2019/10/16-09:42 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.DispatcherServlet- Exiting from "ERROR" dispatch, status 404
+2019/10/16-10:24 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner- No MyBatis mapper was found in '[com.baobao]' package. Please check your configuration.
+2019/10/16-10:24 [main] DEBUG org.springframework.web.context.ContextLoader- Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019/10/16-10:24 [main] INFO  org.springframework.web.context.ContextLoader- Root WebApplicationContext: initialization completed in 1202 ms
+2019/10/16-10:24 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2019/10/16-10:24 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter- ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019/10/16-10:24 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping- 3 mappings in 'requestMappingHandlerMapping'
+2019/10/16-10:24 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019/10/16-10:24 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver- ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019/10/16-10:41 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner- No MyBatis mapper was found in '[com.baobao]' package. Please check your configuration.
+2019/10/16-10:41 [main] DEBUG org.springframework.web.context.ContextLoader- Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019/10/16-10:41 [main] INFO  org.springframework.web.context.ContextLoader- Root WebApplicationContext: initialization completed in 1191 ms
+2019/10/16-10:41 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2019/10/16-10:41 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter- ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019/10/16-10:41 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping- 3 mappings in 'requestMappingHandlerMapping'
+2019/10/16-10:41 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019/10/16-10:41 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver- ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019/10/16-11:17 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner- No MyBatis mapper was found in '[com.baobao]' package. Please check your configuration.
+2019/10/16-11:17 [main] DEBUG org.springframework.web.context.ContextLoader- Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019/10/16-11:17 [main] INFO  org.springframework.web.context.ContextLoader- Root WebApplicationContext: initialization completed in 1027 ms
+2019/10/16-11:17 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2019/10/16-11:17 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter- ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019/10/16-11:17 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping- 3 mappings in 'requestMappingHandlerMapping'
+2019/10/16-11:17 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019/10/16-11:17 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver- ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019/10/16-11:34 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner- No MyBatis mapper was found in '[com.baobao]' package. Please check your configuration.
+2019/10/16-11:34 [main] DEBUG org.springframework.web.context.ContextLoader- Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019/10/16-11:34 [main] INFO  org.springframework.web.context.ContextLoader- Root WebApplicationContext: initialization completed in 1024 ms
+2019/10/16-11:34 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2019/10/16-11:34 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter- ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019/10/16-11:34 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping- 3 mappings in 'requestMappingHandlerMapping'
+2019/10/16-11:34 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019/10/16-11:34 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver- ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019/10/16-11:55 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner- No MyBatis mapper was found in '[com.baobao]' package. Please check your configuration.
+2019/10/16-11:55 [main] DEBUG org.springframework.web.context.ContextLoader- Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019/10/16-11:55 [main] INFO  org.springframework.web.context.ContextLoader- Root WebApplicationContext: initialization completed in 1033 ms
+2019/10/16-11:55 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2019/10/16-11:55 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter- ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019/10/16-11:55 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping- 3 mappings in 'requestMappingHandlerMapping'
+2019/10/16-11:55 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019/10/16-11:55 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver- ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019/10/16-12:08 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner- No MyBatis mapper was found in '[com.baobao]' package. Please check your configuration.
+2019/10/16-12:08 [main] DEBUG org.springframework.web.context.ContextLoader- Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019/10/16-12:08 [main] INFO  org.springframework.web.context.ContextLoader- Root WebApplicationContext: initialization completed in 1014 ms
+2019/10/16-12:08 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2019/10/16-12:08 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter- ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019/10/16-12:08 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping- 3 mappings in 'requestMappingHandlerMapping'
+2019/10/16-12:08 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019/10/16-12:08 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver- ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019/10/16-12:12 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner- No MyBatis mapper was found in '[com.baobao]' package. Please check your configuration.
+2019/10/16-12:12 [main] DEBUG org.springframework.web.context.ContextLoader- Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019/10/16-12:12 [main] INFO  org.springframework.web.context.ContextLoader- Root WebApplicationContext: initialization completed in 1019 ms
+2019/10/16-12:12 [main] DEBUG org.springframework.web.filter.CorsFilter- Filter 'corsFilter' configured for use
+2019/10/16-12:12 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2019/10/16-12:12 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter- ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019/10/16-12:12 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping- 3 mappings in 'requestMappingHandlerMapping'
+2019/10/16-12:12 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019/10/16-12:12 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver- ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2019/10/16-12:16 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Initializing Servlet 'dispatcherServlet'
+2019/10/16-12:16 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.DispatcherServlet- Detected StandardServletMultipartResolver
+2019/10/16-12:16 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.DispatcherServlet- enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2019/10/16-12:16 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Completed initialization in 19 ms
+2019/10/16-12:16 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.DispatcherServlet- GET "/netty-websocket/index", parameters={}
+2019/10/16-12:16 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2019/10/16-12:16 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.resource.ResourceHttpRequestHandler- Resource not found
+2019/10/16-12:16 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.DispatcherServlet- Completed 404 NOT_FOUND
+2019/10/16-12:16 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.DispatcherServlet- "ERROR" dispatch for GET "/error", parameters={}
+2019/10/16-12:16 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping- Mapped to public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019/10/16-12:16 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.view.ContentNegotiatingViewResolver- Selected 'text/html' given [text/html, text/html;q=0.8]
+2019/10/16-12:16 [http-nio-8080-exec-1] DEBUG org.springframework.web.servlet.DispatcherServlet- Exiting from "ERROR" dispatch, status 404
+2019/10/16-12:26 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner- No MyBatis mapper was found in '[com.baobao]' package. Please check your configuration.
+2019/10/16-12:26 [main] DEBUG org.springframework.web.context.ContextLoader- Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2019/10/16-12:26 [main] INFO  org.springframework.web.context.ContextLoader- Root WebApplicationContext: initialization completed in 1117 ms
+2019/10/16-12:26 [main] DEBUG org.springframework.web.filter.CorsFilter- Filter 'corsFilter' configured for use
+2019/10/16-12:26 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2019/10/16-12:26 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter- ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2019/10/16-12:26 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping- 3 mappings in 'requestMappingHandlerMapping'
+2019/10/16-12:26 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping- Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2019/10/16-12:26 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver- ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
